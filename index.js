@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["join [JAGA](https://discord.gg/)","[socials](https://konect.gg/jagafps)"];
 
 
 let currentIndex = 0;
