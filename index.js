@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["join [JAGA](https://discord.gg/)","[socials](https://konect.gg/jagafps)"];
+const statusMessages = ["🚀 Powered By Jaga 🚀"];
 
 
 let currentIndex = 0;
